@@ -40,10 +40,6 @@
 3. Database used
 - MySql
 
-
-
-#### "Suggestions and project Improvements are Invited!"
-
 <bold>Thanks a lot</bold><br/>
                                                                                                        
    
